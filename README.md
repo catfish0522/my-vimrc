@@ -1,6 +1,8 @@
 # my-vimrc
 本人的 vimrc 配置只限于 Python，需要其它语言配置的盆友，请Google谢谢
+
 根据 chxuan 的[ vim自动配置程序](https://github.com/chxuan/vimplus) 修改，有兴趣可以了解一下
+
 ### vim-plug
 [vim-plug](https://github.com/junegunn/vim-plug)：极简主义的Vim插件管理器
 
