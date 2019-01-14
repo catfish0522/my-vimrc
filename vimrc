@@ -51,6 +51,7 @@ set nu
 filetype plugin on
 set encoding=UTF-8
 set clipboard=unnamed
+set cursorline
 let base16colorspace=256
 
 
