@@ -7,8 +7,10 @@
 [vim-plug](https://github.com/junegunn/vim-plug)：极简主义的Vim插件管理器
 
 下载`plug.vim`并将其放在`autoload`目录中
-`curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
-    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim`
+```bash
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+```
 
 ### 插件列表
 
